@@ -3,8 +3,11 @@
 ## DEAL OR NO DEAL
 
 1.	Introduction
+
 ..1	Purpose: Recreational and entertainment purposes – a fun game 
+
 ..1	Intended Audience: 
+
 ...1.	People of any age group (5+)
 ...1.	Developers
 ..1	Scope: A website where the game can be played. 
